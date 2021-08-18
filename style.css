@@ -272,10 +272,10 @@ header nav .depth2 > li > a{
 #contents p.more2{
     font-size: 13px;
     position: absolute;
-    left: 38%;
+    left: 35%;
     top: 60%;
     border: 1px solid rgb(255, 255, 255);
-    width: 80px;
+    width: 100px;
     border-radius: 20px;
     text-align: center;
     padding-top: 3px;
@@ -285,7 +285,7 @@ header nav .depth2 > li > a{
 }
 #contents p.requit{
     position: absolute;
-    left: 37%;
+    left: 36%;
 }
 #contents p.more2 a{
     color:rgb(255, 255, 255);
