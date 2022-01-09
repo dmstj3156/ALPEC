@@ -24,7 +24,7 @@
                 <ul>
                     <li><a href="">사용스킬</a></li>
                         <ul>
-                            <li>>HTML5</a></li>
+                            <li>HTML5</a></li>
                             <li>CSS3</a></li>
                                 <ul>
                                     <li>헤더영역 풀스크린</li>
